@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 #define PERROR(x) \
         fprintf(stderr, "%s\n", x); \
